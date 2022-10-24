@@ -42,7 +42,7 @@ app.listen(3000, () =>{
   <a target="_blank" href="https://www.linkedin.com/in/gustavo-vieira-a22252248/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a target="_blank" href="https://www.instagram.com/gustavoviieira/" alt="Instagram">
+  <a target="_blank" href="https://www.instagram.com/gustavovieiraa/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
    <a target="_blank" href="mailto:Gustavos3654@gmail.com" alt="Gmail">
