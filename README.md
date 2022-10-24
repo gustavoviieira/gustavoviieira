@@ -1,4 +1,4 @@
-### Olá! Me chamo Alexandre! 👋
+### Olá! Me chamo Gustavo! 👋
 
 Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 
@@ -37,7 +37,7 @@ app.listen(3000, () =>{
 </div><br>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoviieira&theme=dracula&hide_langs_below=1" />
 </a>
 
 ## **Vamos nos Conectar:**
@@ -46,10 +46,10 @@ app.listen(3000, () =>{
   <a target="_blank" href="https://www.linkedin.com/in/alexandre-santos-3036601b1/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <a target="_blank" href="https://www.instagram.com/alexandresaintss/" alt="Instagram">
+  <a target="_blank" href="https://www.instagram.com/gustavoviieira/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-   <a target="_blank" href="mailto:alexandresaintss@gmail.com" alt="Gmail">
+   <a target="_blank" href="mailto:Gustavos3654@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 <br>
